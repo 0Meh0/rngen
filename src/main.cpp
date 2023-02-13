@@ -7,7 +7,7 @@
 #define STR(x) #x
 #define XSTR(x) STR(x)
 
-#define DEFAULT_COUNT 100;
+#define DEFAULT_COUNT 100
 #define DEFAULT_NAME "out"
 #define DEFAULT_MIN 0
 #define DEFAULT_MAX 100
