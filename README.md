@@ -1,3 +1,4 @@
+```
 rngen - creates a file containing numbers generated using the Mersenne Twister 19937 generator.
 
 Usage:
@@ -10,3 +11,4 @@ Options:
         -M <number>     sets number higher bound (default value is 100).
         -s <number>     sets the rng seed (default value is set by time).
         -n              writes the number count on the first row (default value is true).
+```
